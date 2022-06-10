@@ -90,9 +90,9 @@
         </th>
         <th><%=apiParsing.X_SWIFI_REMARS3_Map.get(distance.resultKey[i])%>
         </th>
-        <th><%=apiParsing.Lat_Map.get(distance.resultKey[i])%>
-        </th>
         <th><%=apiParsing.Lnt_Map.get(distance.resultKey[i])%>
+        </th>
+        <th><%=apiParsing.Lat_Map.get(distance.resultKey[i])%>
         </th>
         <th><%=apiParsing.WORK_DTTM_Map.get(distance.resultKey[i])%>
         </th>
